@@ -32,5 +32,6 @@
 [<img align="left" alt="William | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/william-spriggs-733a56181/
+[hackthebx]: https://app.hackthebox.com/profile/overview
 
 
