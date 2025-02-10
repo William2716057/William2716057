@@ -1,16 +1,36 @@
 ## Hi there 👋
 
-<!--
-**William2716057/William2716057** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hi, I'm William! <br/><a href="https://github.com/William2716057">Programmer</a>, <a href="https://www.linkedin.com/in/william-spriggs-733a56181/">IT Professional</a>
 
-Here are some ideas to get you started:
+<h2>👨‍💻 Software Development Projects:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <h2>👨‍💻 Web Application Projects:</h2>
+ - [Guess Location on planet by sound game](https://github.com/William2716057/soundGuess)
+
+- <b>Automation Scripts</b>
+
+- <b>PowerShell</b>
+
+- <b>C# </b>
+
+- <b>Python </b>
+
+- <b>Java </b>
+
+
+<h2>👨‍💻 Linguistics Projects:</h2>
+<b>Zip's Law</b>
+<h2>👨‍💻 Machine Learning:</h2>
+
+<h2>👨‍💻 Cyber Security and Forensics Projects:</h2>
+<b>Spam Email Analyzer</b>
+<b>Hueristic Activity Report Creator</b>
+
+<h2> 🤳 Connect with me:</h2>
+
+
+[<img align="left" alt="William | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/william-spriggs-733a56181/
+
+
