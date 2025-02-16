@@ -20,6 +20,7 @@
 
 <h2>👨‍💻 Linguistics Projects:</h2>
 <b>Zip's Law</b>
+<b>Word Analogy Solver using GlovE Twitter model</b>
 <h2>👨‍💻 Machine Learning:</h2>
 
 <h2>👨‍💻 Cyber Security and Forensics Projects:</h2>
