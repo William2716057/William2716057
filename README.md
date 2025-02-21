@@ -21,7 +21,7 @@
 
 <h2>👨‍💻 Linguistics Projects:</h2>
 
-- <b>Zipf's Law</b>
+- [Zipf's Law](https://github.com/William2716057/zipfsLaw)
 - <b>Word Analogy Solver using GlovE Twitter model</b>
 - [Text insights](https://github.com/William2716057/textInsights) 
 <h2>👨‍💻 Machine Learning:</h2>
