@@ -27,8 +27,8 @@
 <h2>👨‍💻 Machine Learning:</h2>
 
 <h2>👨‍💻 Cyber Security and Forensics Projects:</h2>
-- <b>Spam Email Analyzer</b>
-- <b>Hueristic Activity Report Creator</b>
+- Spam Email Analyzer
+- Hueristic Activity Report Creator
 
 <h2> 🤳 Connect with me:</h2>
 
