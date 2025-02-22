@@ -7,15 +7,7 @@
 - <h2>👨‍💻 Web Application Projects:</h2>
  - [Guess Location on planet by sound game](https://github.com/William2716057/soundGuess)
  - [Guess Language being spoken game](https://github.com/William2716057/languageGuess)
- 
-- <b>Automation Scripts</b>
-
-- <b>C# </b>
-
-- <b>Python </b>
-- [Text to QR SSTV Converter](https://github.com/William2716057/QRtoSSTV)
-
-- <b>Java </b>
+ - [Text to QR SSTV Converter](https://github.com/William2716057/QRtoSSTV)
 
 
 <h2>👨‍💻 Linguistics Projects:</h2>
