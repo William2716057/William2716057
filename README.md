@@ -31,7 +31,7 @@
 - <h2>👨‍💻 Cyber Security and Forensics Projects:</h2>
 - Spam Email Analyzer
 - Hueristic Activity Report Creator
-- [Russian Synoptic Morse Code Translator](https://github.com/William2716057/russianNavyMorse/tree/master)
+- [Russian Synoptic Morse Code Interpreter](https://github.com/William2716057/russianNavyMorse/tree/master)
 
 <h2> 🤳 Connect with me:</h2>
 
