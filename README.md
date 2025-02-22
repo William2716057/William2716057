@@ -10,9 +10,6 @@
  
 - <b>Automation Scripts</b>
 
-- <b>PowerShell</b>
-- [Shutdown Logs](https://github.com/William2716057/shutdownLogs)
-
 - <b>C# </b>
 
 - <b>Python </b>
@@ -33,6 +30,8 @@
 - Spam Email Analyzer
 - Hueristic Activity Report Creator
 - [Russian Synoptic Morse Code Interpreter](https://github.com/William2716057/russianNavyMorse/tree/master)
+- <b>PowerShell</b>
+- [Shutdown Logs](https://github.com/William2716057/shutdownLogs)
 
 <h2> 🤳 Connect with me:</h2>
 
