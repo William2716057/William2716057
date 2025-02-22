@@ -24,10 +24,11 @@
 
 - [Zipf's Law](https://github.com/William2716057/zipfsLaw)
 - <b>Word Analogy Solver using GlovE Twitter model</b>
-- [Text Insights](https://github.com/William2716057/textInsights) 
-<h2>👨‍💻 Machine Learning:</h2>
+- [Text Insights](https://github.com/William2716057/textInsights)
 
-<h2>👨‍💻 Cyber Security and Forensics Projects:</h2>
+- <h2>👨‍💻 Machine Learning:</h2>
+
+- <h2>👨‍💻 Cyber Security and Forensics Projects:</h2>
 - Spam Email Analyzer
 - Hueristic Activity Report Creator
 - [Russian Synoptic Morse Code Translator](https://github.com/William2716057/russianNavyMorse/tree/master)
