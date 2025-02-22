@@ -4,7 +4,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <h2>👨‍💻 Web Application Projects:</h2>
+- <h2>👨‍💻 Scripts and Web Application Projects:</h2>
  - [Guess Location on planet by sound game](https://github.com/William2716057/soundGuess)
  - [Guess Language being spoken game](https://github.com/William2716057/languageGuess)
  - [Text to QR SSTV Converter](https://github.com/William2716057/QRtoSSTV)
