@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1>Hi, I'm William! <br/><a href="https://github.com/William2716057">Programmer</a>, <a href="https://www.linkedin.com/in/william-spriggs-733a56181/">IT Professional</a>
+<h1>Hi, I'm William! <br/><a href="https://github.com/William2716057">Programmer, Web Developer</a>, <a href="https://www.linkedin.com/in/william-spriggs-733a56181/">IT Professional</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
