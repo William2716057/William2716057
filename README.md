@@ -8,6 +8,7 @@
  - [Guess Location on planet by sound game](https://github.com/William2716057/soundGuess)
  - [Guess Language being spoken game](https://github.com/William2716057/languageGuess)
  - [Text to QR SSTV Converter](https://github.com/William2716057/QRtoSSTV)
+ - [Github push automation script](https://github.com/William2716057/gitAutomate)
 
 
 <h2>👨‍💻 Linguistics Projects:</h2>
