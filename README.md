@@ -24,6 +24,7 @@
 - Hueristic Activity Report Creator
 - [Russian Synoptic Morse Code Interpreter](https://github.com/William2716057/russianNavyMorse/tree/master)
 - [Shutdown Logs](https://github.com/William2716057/shutdownLogs)
+- [PowerShell Keylogger](https://github.com/William2716057/keylog)
 
 <h2> 🤳 Connect with me:</h2>
 
