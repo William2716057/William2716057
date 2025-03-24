@@ -21,7 +21,7 @@
 
 - <h2>👨‍💻 Cyber Security and Forensics Projects:</h2>
 - [Email analyzer](https://github.com/William2716057/emailAnalysis/tree/master)
-- Hueristic Activity Report Creator'
+- Hueristic Activity Report Creator
 - [Russian Synoptic Morse Code Interpreter](https://github.com/William2716057/russianNavyMorse/tree/master)
 - [Shutdown Logs](https://github.com/William2716057/shutdownLogs)
 - [PowerShell Keylogger](https://github.com/William2716057/keylog)
