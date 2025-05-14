@@ -3,7 +3,9 @@
 <h1>Hi, I'm William! <br/><a href="https://github.com/William2716057">Programmer, Web Developer</a>, <a href="https://www.linkedin.com/in/william-spriggs-733a56181/">IT Professional</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
-
+  
+ - [Sequence Memory](https://github.com/William2716057/Sequence-Memory)
+ 
 - <h2>👨‍💻 Scripts and Web Application Projects:</h2>
  - [Guess Location on planet by sound game](https://github.com/William2716057/soundGuess)
  - [Guess Language being spoken game](https://github.com/William2716057/languageGuess)
