@@ -28,6 +28,7 @@
 - [Shutdown Logs](https://github.com/William2716057/shutdownLogs)
 - [PowerShell Keylogger](https://github.com/William2716057/keylog)
 - [Get geocoordinates from addresses](https://github.com/William2716057/getCoords)
+- [Get connected device info](https://github.com/William2716057/IPscan)
 
 <h2> 🤳 Connect with me:</h2>
 
