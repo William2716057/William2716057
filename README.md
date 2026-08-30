@@ -11,6 +11,7 @@
  
 <h2>👨‍💻 Scripts and Web Application Projects:</h2>
 
+ - [Desktop simulation](https://github.com/William2716057/Desktop_emulation)
  - [Guess Location on planet by sound game](https://github.com/William2716057/soundGuess)
  - [Guess Language being spoken game](https://github.com/William2716057/languageGuess)
  - [Text to QR SSTV Converter](https://github.com/William2716057/QRtoSSTV)
