@@ -8,6 +8,7 @@
  - [Grammar Assistant](https://github.com/William2716057/EnglishGrammarAssistance)
  - [Vision Memory](https://github.com/William2716057/Vision-Memory/blob/main/circle_game.js)
  - [Geocoordinate Data Analysis](https://github.com/William2716057/location_data_collect)
+ - [First person Pacman Game](https://github.com/William2716057/pacman3D)
  
 <h2>👨‍💻 Scripts and Web Application Projects:</h2>
 
