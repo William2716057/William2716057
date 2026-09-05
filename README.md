@@ -37,12 +37,5 @@
 - [Get geocoordinates from addresses](https://github.com/William2716057/getCoords)
 - [Get connected device info](https://github.com/William2716057/IPscan)
 
-<h2> 🤳 Connect with me:</h2>
-
-
-[<img align="left" alt="William | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/william-spriggs-733a56181/
-[hackthebox]: https://app.hackthebox.com/profile/overview
 
 
