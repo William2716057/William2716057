@@ -7,6 +7,7 @@
  - [Sequence Memory](https://github.com/William2716057/Sequence-Memory)
  - [Grammar Assistant](https://github.com/William2716057/EnglishGrammarAssistance)
  - [Vision Memory](https://github.com/William2716057/Vision-Memory/blob/main/circle_game.js)
+ - [Morse Code Training](https://github.com/William2716057/morse_practice)
  - [Geocoordinate Data Analysis](https://github.com/William2716057/location_data_collect)
  - [First person Pacman Game](https://github.com/William2716057/pacman3D)
  
