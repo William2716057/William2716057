@@ -26,7 +26,6 @@
 - [Word Analogy Solver using GlovE Twitter model](https://github.com/William2716057/GloVeRetrieval)
 - [Text Insights](https://github.com/William2716057/textInsights)
 - [Author Comparison](https://github.com/William2716057/AuthorComparison)
-<h2>👨‍💻 Machine Learning:</h2>
 
 <h2>👨‍💻 Cyber Security and Forensics Projects:</h2>
 
