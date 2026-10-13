@@ -1,6 +1,6 @@
-# Project List
+# William Spriggs
 
-<h1>William Spriggs <br/><a href="https://github.com/William2716057">Programmer, Web Developer</a>, <a href="https://www.linkedin.com/in/william-spriggs-733a56181/">IT Professional</a>
+<h1>Project List <br/><a href="https://github.com/William2716057">Programmer, Web Developer</a>, <a href="https://www.linkedin.com/in/william-spriggs-733a56181/">IT Professional</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
   
