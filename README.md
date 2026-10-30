@@ -36,7 +36,6 @@
 - [Windows System Monitor and Threat Detector](https://github.com/William2716057/activityDetect.git)
 - [Russian Synoptic Morse Code Interpreter](https://github.com/William2716057/russianNavyMorse/tree/master)
 - [Shutdown Logs](https://github.com/William2716057/shutdownLogs)
-- [PowerShell Keylogger](https://github.com/William2716057/keylog)
 - [Get geocoordinates from addresses](https://github.com/William2716057/getCoords)
 - [Get connected device info](https://github.com/William2716057/IPscan)
 
