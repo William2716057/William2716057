@@ -32,6 +32,7 @@
 <h2>👨‍💻 Cyber Security and Forensics Projects:</h2>
 
 - [File Forensics](https://github.com/William2716057/file_forensics)
+- [Email Checker](https://github.com/William2716057/emailForensics)
 - [Email analyzer](https://github.com/William2716057/emailAnalysis/tree/master)
 - [Windows System Monitor and Threat Detector](https://github.com/William2716057/activityDetect.git)
 - [Russian Synoptic Morse Code Interpreter](https://github.com/William2716057/russianNavyMorse/tree/master)
